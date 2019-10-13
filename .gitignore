@@ -1,3 +1,7 @@
+#yolo
+/cfg
+/data
+
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
